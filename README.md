@@ -1,7 +1,5 @@
-# CoronaUpdateToday
-A News-based Android app
-
-CoronaUpdateToday is a news-update-based app whose goal is to give the user current Corona update. Using this application User can easily get that time coronavirus affected people amount and this application also gives the statistical graphical view.
+# AndroidWebView
+A News-based Web Android app
 
 # Functional Requirements :
 1.Search Country
@@ -14,16 +12,10 @@ CoronaUpdateToday is a news-update-based app whose goal is to give the user curr
 5.Languages: java, xml
 
 # API Requirements :
-1. "https://corona.lmao.ninja/v2/countries/bangladesh?yesterday=false&strict=false";
-1. "https://corona.lmao.ninja/v2/all";
-1. "https://corona.lmao.ninja/v2/countries";
 
 # Android Library Uses :
-1. cardview:1.0.0
-2.recyclerview:1.1.0
-3.retrofit:2.5.0
-4.converter-gson:2.5.0
-6.eazegraph:1.2.5l
+1.cardview:1.0.0'
+2.recyclerview:1.1.0'
 
 # Sdk Version:
 1.Compile Sdk Version : 29
